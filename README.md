@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi I'm Sameer and I fill the void with coding and automation! <br>My goal is to create something helpful and contribute to the life changing technology. <br> When I'm not coding & working I'd be exercising, going out and spending time with loved ones.
+Hi I'm Sameer and I fill the void with coding and automation! <br>My goal is to create something helpful and contribute to the life changing technology. <br> When I'm not coding & working I'd be exercising, going out and spending time with friends and family.
 
 
 # 💻 Tech Stack:
