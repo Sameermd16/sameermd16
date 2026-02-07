@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi I'm Sameer, a Network and Automation Engineer. <br> My goal is to create something helpful and contribute to the life changing technology. 
+Hi I'm Sameer, a Network and Infrastructure Engineer. <br> My goal is to create something helpful and contribute to the life changing technology. 
 
 
 # 💻 Tech Stack:
